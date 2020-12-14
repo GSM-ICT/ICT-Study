@@ -8,3 +8,5 @@
 
 
 ### 꾸준함이 중요합니다 화이팅!
+
+#### [byung-jin](./byung-jin/README.md)
