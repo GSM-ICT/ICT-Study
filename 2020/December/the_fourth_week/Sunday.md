@@ -1,15 +1,13 @@
-# 2020-12-13일
+# 2020-12-20
 
 ## 목록
 
-- English
-- Java Project
+- Styled-components
 
-### English
+### Styled-componets
 
-- 주니어 능률 보카 Day 7 복습
-- 주니어 능률 보카 Day 8 학습
+[공식문서](https://styled-components.com/)
 
-### 오늘은
+## 오늘은
 
-- 공부를 안 하고 씬나게 놀았다.
+피곤했다
