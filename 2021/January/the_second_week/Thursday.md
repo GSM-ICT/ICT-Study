@@ -12,7 +12,7 @@
 
 ### gogo
 
-- UserCmmand create 구현
+- UserCommand create 구현
 - UserCommand delete 구현
 - UserCommand select 구현
 - .env 환경설정 추가 (os.godotenv)
